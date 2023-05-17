@@ -1,0 +1,1 @@
+[{"electionID": 1, "name": "ASC Election", "date": "2023-27-04", "candidates": {"1": {"name": "Keziah and Wofa", "Slogan": "All Hands On Deck?"}, "2": {"name": "Bernd and Jacskon", "party": "Solid?"}}}]

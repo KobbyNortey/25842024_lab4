@@ -1,0 +1,1 @@
+[{"name": "Shawn Owusu-Nortey", "age": 20, "major": "Computer Sicence", "class": 2024, "id": 25842024}]
